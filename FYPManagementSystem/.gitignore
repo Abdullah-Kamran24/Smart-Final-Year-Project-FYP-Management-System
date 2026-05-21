@@ -1,0 +1,19 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+Uploads/
+*.db
+*.sqlite
+
+## Rider
+.idea/
+
+## VS Code
+.vscode/
+
+## Logs
+logs/
+*.log
