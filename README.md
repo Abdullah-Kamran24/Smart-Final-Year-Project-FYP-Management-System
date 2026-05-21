@@ -50,17 +50,17 @@ The system covers the complete FYP journey from day one to final submission:
 - 📁 Create and manage project groups
 - 📝 Submit project proposals for supervisor review
 - 📊 Upload weekly progress reports and files
-- 📦 Submit deliverables — milestones, final reports, and presentations
+- 📦 Submit deliverables milestones, final reports, and presentations
 - 🔔 Stay updated on approvals, feedback, and evaluations
 
 **For Supervisors**
 - ✅ Review and approve or reject proposals
 - 💬 Provide detailed feedback and evaluations
 - 📈 Monitor student progress across all assigned projects
-- 🎯 Assign marks and grades with a built-in grade calculator
+- 🎯 Assign marks and grades with a built in grade calculator
 
 **For Admins**
-- 👤 Manage all users — students, supervisors, and admins
+- 👤 Manage all users students, supervisors, and admins
 - 🗂️ Oversee all groups, projects, and proposals system-wide
 - 📊 View dashboards with live statistics and charts
 
@@ -205,8 +205,7 @@ Users → Groups → GroupMembers
 
 <div align="center">
 
-Made with ❤️ by **Group 24** — FAST University
-
-*Mehaal Khan • Abdullah Kamran • Mustafa Naeem*
+Made by:
+*Mehaal Khan(23P-0544) • Abdullah Kamran(23P-0612) • Mustafa Naeem*(23P-0501)
 
 </div>
